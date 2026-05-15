@@ -1,0 +1,13 @@
+{
+    "title":"student",
+    "description":"schema about movies",
+    "type":"object",
+    "properties":{
+        "name":"string",
+        "age":"integer"
+    },
+    "required":["name"] 
+    
+}
+//age can be skipped
+//this entire schema can be placed instead of (TypedDict) in typeddict or (BaseModel) in pydantic, works same

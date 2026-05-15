@@ -1,0 +1,9 @@
+chat_history = [
+    ("user", "Hi, my order hasn’t arrived yet and it's been 5 days."),
+    
+    ("assistant", "I'm really sorry for the delay. Let me check that for you—could you please share your order ID?"),
+    
+    ("user", "Yes, it's ORD12345."),
+    
+    ("assistant", "Thank you! I see your order was delayed due to logistics issues. It should arrive within the next 2 days. We appreciate your patience.")
+]
